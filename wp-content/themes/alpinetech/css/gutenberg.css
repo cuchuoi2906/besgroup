@@ -1,0 +1,7 @@
+.wp-block-paragraph{margin-bottom:20px;line-height:1.5}.wp-block-heading{font-size:24px;font-weight:700}.wp-block-gallery,.wp-block-heading,.wp-block-image{margin-bottom:30px}.wp-block-quote{margin:30px 0;padding:20px;background-color:#f9f9f9;border-left:4px solid #333}.wp-block-list{margin-bottom:30px;list-style-type:disc;padding-left:20px}.wp-block-button{display:inline-block;margin-bottom:20px;padding:10px 20px;background-color:#333;color:#fff;text-decoration:none;border-radius:4px}.wp-block-columns{margin-bottom:30px;display:flex;flex-wrap:wrap}.wp-block-columns .wp-block-column{flex:1;margin-right:20px}.wp-block-columns .wp-block-column:last-child{margin-right:0}.wp-block-columns.has-2-columns .wp-block-column{width:50%}.wp-block-columns.has-3-columns .wp-block-column{width:33.33%}.wp-block-columns.has-4-columns .wp-block-column{width:25%}.wp-block-columns.has-5-columns .wp-block-column{width:20%}.wp-block-columns.has-6-columns .wp-block-column{width:16.66%}.wp-block-columns.has-7-columns .wp-block-column{width:14.28%}.wp-block-columns.has-8-columns .wp-block-column{width:12.5%}.wp-block-columns.has-9-columns .wp-block-column{width:11.11%}.wp-block-columns.has-10-columns .wp-block-column{width:10%}
+figcaption.wp-element-caption {
+    text-align: center;
+    background: #232e7c;
+    padding: 8px 0px;
+    color: #fff;
+}
